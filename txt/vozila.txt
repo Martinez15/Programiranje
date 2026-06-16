@@ -1,0 +1,3 @@
+// Format: VoziloID;Registracija;Marka;Model;Godiste;Boja;Aktivno
+1;BG-123-AA;Toyota;Corolla;2022;Bela;true
+2;BG-456-BB;Volkswagen;Passat;2021;Crna;true

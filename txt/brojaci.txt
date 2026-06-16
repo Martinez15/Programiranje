@@ -1,0 +1,4 @@
+﻿Vozac;2
+Putnik;2
+Vozilo;2
+Voznja;2

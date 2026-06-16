@@ -1,0 +1,6 @@
+﻿// Format: Username|PasswordHash|Uloga|DodatniID
+admin|240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9|Administrator|
+vozac1|18c6b00753722c3f460646cd8e4b94009116705e7fb622aff34beb7a8baee022|Vozac|VOZ-0001
+vozac2|f81a5979d61f2dbc3678146a7c8cafd680ffbd2f477ce0aa5be0f306dea60bb2|Vozac|VOZ-0002
+putnik1|feb4eb9fd1b4f6121f66ab1c07767206a0160966fd3efd3218e8f30d5f3662f6|Putnik|PUT-0001
+putnik2|360e6fc1b0bb9c3f75e99f33f510470e9d5e81235709a7dff2f1fc1c37c5c82e|Putnik|PUT-0002

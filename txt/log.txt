@@ -1,0 +1,2 @@
+// Log promena statusa voznji
+[2026-06-16 19:57:05] Voznja VOZ-2026-0002 narucena od putnika PUT-0002. Dodeljen vozac VOZ-0001. Status: Narucena.

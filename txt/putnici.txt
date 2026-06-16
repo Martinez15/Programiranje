@@ -1,0 +1,3 @@
+﻿// Format: PutnikID;ImePrezime;Telefon;Email
+PUT-0001;Nikola Nikolic;064111222;nikola@example.com
+PUT-0002;Petar Petrovic;064222333;petar@example.com

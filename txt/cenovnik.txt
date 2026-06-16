@@ -1,0 +1,2 @@
+// Format: StartnaCena;CenaPoKm;NocnaDoplata
+200;65;50
